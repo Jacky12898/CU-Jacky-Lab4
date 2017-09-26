@@ -1,2 +1,2 @@
 # CU-Jacky-Lab4
-Joel Davidson and Jacky Cheung
+Jacky Cheung, Partner: Joel Davidson
